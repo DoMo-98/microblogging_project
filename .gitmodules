@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:DoMo-98/microblogging_frontend.git
+[submodule "services"]
+	path = services
+	url = git@github.com:DoMo-98/microblogging_services.git
